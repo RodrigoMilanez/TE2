@@ -24,5 +24,27 @@
       "genero": "M",
       "id": 4
     }
+  ],
+
+  "livros": [
+    {
+      "titulo": "JavaScript",
+      "subtitulo": "",
+      "numeroPaginas":75,
+      "isbm": "teste",
+      "autores":  [
+        {
+          "nome": "David Cockford",
+          "dataNascimento": "2000-04-28T20:30:34.363-03:00",
+          "genero": "M",
+          "id": 2
+        }
+      ]
+      "editora": "aquela lá",
+      "ano": 20145,
+      "logoURL": "url",
+      "preco": 5907
+
+    }
   ]
 }

@@ -9,4 +9,6 @@ export interface LivroInterface {
   autores: AutorInterface[];
   editora: string;
   ano: number;
+  longurl: string;
+  preco: number;
 }
